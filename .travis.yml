@@ -3,5 +3,5 @@ rvm:
 services:
   - mysql
 script:
-  - rails test
-  - rails test:system
+  - bundle exec rails test
+  - bundle exec rails test:system
