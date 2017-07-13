@@ -2,3 +2,6 @@ rvm:
   - 2.4
 services:
   - mysql
+script:
+  - rails test
+  - rails test:system
