@@ -1,1 +1,1 @@
-Shadowrun 5 character generator - sch5tten.de
+Shadowrun 5 character assistant - http://sch5tten.de
