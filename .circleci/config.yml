@@ -18,7 +18,7 @@ jobs:
           MYSQL_ALLOW_EMPTY_PASSWORD: true
           MYSQL_DATABASE: schatten5_test
           MYSQL_HOST: 127.0.0.1
-          MYSQL_ROOT_HOST: %
+          MYSQL_ROOT_HOST: '%'
           MYSQL_USER: root
 
     working_directory: ~/repo
